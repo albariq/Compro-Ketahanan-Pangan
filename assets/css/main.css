@@ -906,6 +906,17 @@ section,
 	padding: 0 15px;
 }
 
+#carouselCustom h5{
+	font-size: 60px;
+	font-weight: 700;
+}
+
+#carouselCustom p{
+	color: color-mix(in srgb, var(--default-color), transparent 20%);
+	margin: 10px 0 20px 0;
+	font-size: 30px;
+}
+
 #carouselCustom .carousel-caption h5,
 #carouselCustom .carousel-caption p {
 	color: white;
